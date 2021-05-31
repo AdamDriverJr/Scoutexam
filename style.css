@@ -9,13 +9,14 @@
 
 .navbar-style {
     box-shadow: 0 5px 10px #efefef;
-    display: flex;
+    display: flex; 
     align-items: center;
     justify-content: space-between;
          
 }
 .navbar-nav{
     padding-top: 50px;
+   
 }
 
 

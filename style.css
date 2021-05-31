@@ -3,15 +3,21 @@
     padding:0;
 }
 
-.header
-{
-    height: 100vh;
+.navbar{
+    height: 100px;
 }
 
 .navbar-style {
     box-shadow: 0 5px 10px #efefef;
-    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+         
 }
+.navbar-nav{
+    padding-top: 50px;
+}
+
 
 .logo
 {

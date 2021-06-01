@@ -72,3 +72,8 @@ li a {
 .title {
     padding: 30px;
 }
+
+.kids {
+    width: 300px;
+    clip-path: circle();
+}

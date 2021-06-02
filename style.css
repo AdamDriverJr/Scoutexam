@@ -73,6 +73,60 @@ li a {
 }
 
 .kids {
-    width: 300px;
+    width: 240px;
     clip-path: circle();
 }
+
+.kids2 {
+  width: 220px;
+  clip-path: circle();
+}
+
+.kids3 {
+  width: 250px;
+  clip-path: circle();
+}
+
+.kids4 {
+  width: 240px;
+  clip-path: circle();
+}
+
+.kids5 {
+  width: 230px;
+  clip-path: circle();
+}
+
+.mb-5 {
+  font-size: 32px;
+}
+
+.mikro1 {
+  font-size: 20px;
+  
+}
+
+.mini1 {
+  font-size:  20px;
+}
+
+.junior1 {
+  font-size:  20px;
+}
+
+.trop1 {
+  font-size:  20px;
+}
+
+.senior1 {
+  font-size:  20px;
+}
+
+.mikro1 {
+  text-align: center;
+}
+
+iframe {
+  margin-left: 10%;
+}
+

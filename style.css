@@ -297,11 +297,14 @@ background: linear-gradient(0deg, rgba(0,51,102,1) 0%, rgba(104,60,167,1) 54%);
 
 .middle {
   width: 60%;
+  margin-left: 17%;
   
 }
 
 .patu {
-  width: 80%;
+  width: 100%;
+  padding: 3%;
+  margin-left: 7%;
 }
 
 
@@ -312,6 +315,7 @@ background: linear-gradient(0deg, rgba(0,51,102,1) 0%, rgba(104,60,167,1) 54%);
   justify-content: center !important;
 
 }
+
 
 
 

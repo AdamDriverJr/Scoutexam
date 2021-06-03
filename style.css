@@ -44,33 +44,106 @@ li a {
           justify-content: center;
 }
 
-.card {
-    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-    background-color: #e4e4e4d5;
-}
+/* News Section */
 
 .card-img-top{
     height: 260px;
+    width: 100%;
 }
 
 .card-title {
-    font-size: 25px;
-    padding-bottom: 15px;
+    display:flex;
+   justify-content: flex-start;
+   font-size: 20px;
+   font-weight: lighter;
 }
 
 .card-subtitle {
-    font-size: 20px;
-    padding-bottom: 20px;
     align-items: center;
+    display:flex;
+    justify-content: flex-start;
+    font-size: 30px;
+    font-weight: lighter;
+    padding-bottom: 15px;
+  
 }
 
-.btn {
-    padding-bottom: 30px;
+.btn2 {
+  padding: 6px;
+  background-color: none ;
+  border: solid white 3px;
+  border-radius: 13px ;
+  color: white; 
+  transition-duration: 0.4s;
+  font-size: 17px;
+  font-family: 'Dosis', Courier, monospace;
+  font-weight: bold;
+  
+  
 }
+
+.btn2:hover {
+  background-color: white; 
+  
+}
+
+a2 {
+  color:white;
+  
+}
+
+
+a2:hover {
+  color: #228361;
+  
+}
+
+
+
 
 .title {
-    padding: 30px;
+  display:flex;
+  font-family: 'Dosis', Courier, monospace;
+  font-weight: lighter;
+  color:#03174D;
+  padding: 30px;
+
 }
+
+h2 {
+  font-size: 40px !important; 
+}
+
+.container2 {
+  margin-left:200px;
+  margin-bottom: 150px;
+}
+
+
+
+.card-body {
+  
+  padding: 20px;
+  font-family: 'Dosis', Courier, monospace;
+  color: white;
+  
+  
+}
+
+.card {
+  background: rgb(0,51,102);
+background: linear-gradient(0deg, rgba(0,51,102,1) 0%, rgba(104,60,167,1) 54%);
+
+}
+
+
+/* End of News Section */
+
+
+
+
+
+
 
 .kids {
     width: 240px;
@@ -138,3 +211,13 @@ iframe {
 .patu {
   width: 80%;
 }
+
+
+
+
+
+
+
+
+
+

@@ -117,6 +117,7 @@ h2 {
 .container2 {
   margin-left:200px;
   margin-bottom: 150px;
+  margin-right:200px;
 }
 
 
@@ -294,11 +295,6 @@ background: linear-gradient(0deg, rgba(0,51,102,1) 0%, rgba(104,60,167,1) 54%);
 
 
 
-
-iframe {
-  margin-left: 10%;
-}
-
 .middle {
   width: 60%;
   
@@ -311,11 +307,13 @@ iframe {
 
 /* End of Deparments */
 
-.googlemap2 {
+.googlemap {
   display: flex !important;
   justify-content: center !important;
 
 }
+
+
 
 
 
